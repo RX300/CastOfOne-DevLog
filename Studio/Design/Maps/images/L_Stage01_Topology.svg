@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1060" viewBox="0 0 1440 1060">
+<rect width="1440" height="1060" fill="#101c25"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#e8b55a"/></marker></defs>
+<text x="40" y="52" fill="#e3ebee" font-family="Arial,sans-serif" font-size="32" font-weight="700">STAGE 01 / CURRENT ROUTE &amp; REEL CAPACITY</text>
+<text x="40" y="86" fill="#a5bac5" font-family="Arial,sans-serif" font-size="17" font-weight="400">2026-11-15  |  Schematic only. Geometry and tested connections are specified in the map document.</text>
+<text x="40" y="123" fill="#e8b55a" font-family="Arial,sans-serif" font-size="21" font-weight="400">ONE SHARED LIBRARY  /  Start: 1 slot  /  05B milestone: 2 slots  /  Full: delete a take before recording</text>
+<rect x="40" y="165" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="54" y="194" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">01 / ENTRY</text>
+<text x="54" y="223" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Run-jump trench; return stair</text>
+<text x="54" y="250" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">CAMERA LOCKED</text>
+<rect x="390" y="165" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="404" y="194" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">02 / CAMERA</text>
+<text x="404" y="223" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Button 201 -&gt; gate 202 -&gt; pickup</text>
+<text x="404" y="250" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">UNLOCK 1 SHARED SLOT</text>
+<rect x="740" y="165" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="754" y="194" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">03 / AUDITION</text>
+<text x="754" y="223" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Plate 301; 2 m crouched-double pit</text>
+<text x="754" y="250" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">1 SHARED SLOT</text>
+<rect x="1090" y="165" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="1104" y="194" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">04 / ARRIVAL</text>
+<text x="1104" y="223" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">East balcony +4 m -&gt; interior stair</text>
+<text x="1104" y="250" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">1 SHARED SLOT</text>
+<path d="M330,217 L382,217" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M680,217 L732,217" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1030,217 L1082,217" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1235,269 L1235,324" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1090" y="330" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="1104" y="359" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">04 / MAIN FLOOR</text>
+<text x="1104" y="388" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Key handoff -&gt; warehouse gate 403</text>
+<text x="1104" y="415" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">1 SHARED SLOT</text>
+<rect x="740" y="330" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="754" y="359" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">05A / WAREHOUSE</text>
+<text x="754" y="388" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">One crate; return gate 599</text>
+<text x="754" y="415" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">1 SHARED SLOT</text>
+<rect x="390" y="330" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="404" y="359" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">05B / REHEARSAL</text>
+<text x="404" y="388" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Two marks 510 + 511 -&gt; gate 512</text>
+<text x="404" y="415" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">UPGRADE TO 2 SHARED SLOTS</text>
+<rect x="40" y="330" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="54" y="359" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">06 / CONTROL</text>
+<text x="54" y="388" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">601 unlocks shortcut; record 602</text>
+<text x="54" y="415" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">2 SLOTS FOR ALL LATER AREAS</text>
+<path d="M1090,382 L1038,382" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M740,382 L688,382" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M390,382 L338,382" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M185,330 L185,298 L1235,298 L1235,330" fill="none" stroke="#5ad1bc" stroke-width="3" stroke-dasharray="8 5"/>
+<text x="320" y="310" fill="#5ad1bc" font-family="Arial,sans-serif" font-size="16" font-weight="400">SHORTCUT 406 -&gt; arrival stair -&gt; return to main-floor bridge</text>
+<path d="M185,434 L185,524" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="215" y="482" fill="#e8b55a" font-family="Arial,sans-serif" font-size="20" font-weight="400">Replay 602 at bridge 405, then cross to 07A</text>
+<rect x="40" y="530" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="54" y="559" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">07A / PATROL</text>
+<text x="54" y="588" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Guard 701; stairs + safe catwalk</text>
+<text x="54" y="615" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">2 SHARED SLOTS</text>
+<rect x="390" y="530" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="404" y="559" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">07B / FIRE CHUTE</text>
+<text x="404" y="588" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">NG delivery; NoProps bypass; 704</text>
+<text x="404" y="615" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">2 SHARED SLOTS</text>
+<rect x="740" y="530" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="754" y="559" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">08 / BOULDER</text>
+<text x="754" y="588" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Rehearsal -&gt; crate plate -&gt; overlook</text>
+<text x="754" y="615" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">2 SHARED SLOTS</text>
+<rect x="1090" y="530" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="1104" y="559" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">09 / SECURITY</text>
+<text x="1104" y="588" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Guard 901 decoy -&gt; lever 902</text>
+<text x="1104" y="615" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">2 SHARED SLOTS</text>
+<path d="M330,582 L382,582" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M680,582 L732,582" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1030,582 L1082,582" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1235,634 L1235,684" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1090" y="690" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="1104" y="719" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">10 / VAULT</text>
+<text x="1104" y="748" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Key Light; preserve the key</text>
+<text x="1104" y="775" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">2 SHARED SLOTS</text>
+<rect x="740" y="690" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="754" y="719" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">WRAP GALLERY</text>
+<text x="754" y="748" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Lock 1004 -&gt; gate 1005 -&gt; stairs</text>
+<text x="754" y="775" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">+4 m / GLASS GALLERY</text>
+<rect x="390" y="690" width="290" height="104" rx="6" fill="#213541" stroke="#64818c"/>
+<text x="404" y="719" fill="#e3ebee" font-family="Arial,sans-serif" font-size="22" font-weight="700">EXIT 1099</text>
+<text x="404" y="748" fill="#e3ebee" font-family="Arial,sans-serif" font-size="16" font-weight="400">Complete Stage 01</text>
+<text x="404" y="775" fill="#e8b55a" font-family="Arial,sans-serif" font-size="15" font-weight="400">NO DIRECT ROUTE FROM 09</text>
+<path d="M1090,742 L1038,742" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M740,742 L688,742" fill="none" stroke="#e8b55a" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="40" y="848" fill="#e3ebee" font-family="Arial,sans-serif" font-size="24" font-weight="700">07A -&gt; 07B / REPAIRED WALKABLE CONNECTION</text>
+<path d="M70,992 L340,905 L650,905 L950,992 L1320,992" fill="none" stroke="#5ad1bc" stroke-width="5"/>
+<text x="55" y="1025" fill="#e3ebee" font-family="Arial,sans-serif" font-size="17" font-weight="400">07A floor 0 m</text>
+<text x="315" y="884" fill="#e3ebee" font-family="Arial,sans-serif" font-size="18" font-weight="400">Catwalk +4 m</text>
+<text x="610" y="884" fill="#e3ebee" font-family="Arial,sans-serif" font-size="18" font-weight="400">Door + landing</text>
+<text x="1030" y="1025" fill="#e3ebee" font-family="Arial,sans-serif" font-size="17" font-weight="400">07B entry floor 0 m</text>
+<text x="700" y="946" fill="#e8b55a" font-family="Arial,sans-serif" font-size="17" font-weight="400">7 m descending flight</text>
+<text x="700" y="971" fill="#a5bac5" font-family="Arial,sans-serif" font-size="16" font-weight="400">x 4330 -&gt; 5030 / y 2640</text>
+</svg>

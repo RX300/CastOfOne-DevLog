@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4100" height="3020" viewBox="0 0 4100 3020">
+<defs>
+<marker id="orange" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#D95B10"/></marker>
+<marker id="teal" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#087F83"/></marker>
+<marker id="ink" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#243540"/></marker>
+<marker id="gold" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#BA861C"/></marker>
+<marker id="red" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#C63232"/></marker>
+<linearGradient id="slope" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#DDD8CD"/><stop offset="1" stop-color="#91ABBE"/></linearGradient></defs>
+<rect x="0" y="0" width="4100" height="3020" rx="0" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="70" y="92" font-family="Arial, Microsoft YaHei, sans-serif" font-size="56" fill="#243540" font-weight="700" text-anchor="start" style="">STAGE 02 / SCALED SECTIONS</text>
+<text x="70" y="142" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#586C76" font-weight="400" text-anchor="start" style="">Horizontal 26 px/m | vertical 52 px/m (2× exaggeration) | nominal terrace profiles; no terrain-noise or furniture survey</text>
+<text x="4030" y="89" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#586C76" font-weight="400" text-anchor="end" style="">MEGAJAM / S02 / 2026-11-15</text>
+<text x="70" y="191" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#C63232" font-weight="400" text-anchor="start" style="">Puzzle mechanisms not built yet; buildings shown at their as-built massing.</text>
+<text x="70" y="233" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#586C76" font-weight="400" text-anchor="start" style="">Source-derived massing; puzzle markers and locks express design intent, not verified gameplay.</text>
+<text x="75" y="330" font-family="Arial, Microsoft YaHei, sans-serif" font-size="37" fill="#243540" font-weight="700" text-anchor="start" style="">A–A / SOUTH–NORTH</text>
+<text x="75" y="376" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#586C76" font-weight="400" text-anchor="start" style="">Cut X=+6 m; projected lift-ring edge X=9 m and approach bridge X=9.5→0 m are dashed. Horizontal axis = Y.</text>
+<polyline points="260.00,1282.00 3034.00,1282.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="1292.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">-3.5</text>
+<polyline points="260.00,1100.00 3034.00,1100.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="1110" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">+0.0</text>
+<polyline points="260.00,814.00 3034.00,814.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="824.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">+5.5</text>
+<polyline points="260.00,632.00 3034.00,632.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="642" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">+9.0</text>
+<polyline points="352.00,1352.00 352.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="352" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-50</text>
+<polyline points="612.00,1352.00 612.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="612" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-40</text>
+<polyline points="872.00,1352.00 872.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="872" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-30</text>
+<polyline points="1132.00,1352.00 1132.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1132" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-20</text>
+<polyline points="1392.00,1352.00 1392.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1392" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-10</text>
+<polyline points="1652.00,1352.00 1652.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1652" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">0</text>
+<polyline points="1912.00,1352.00 1912.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1912" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">10</text>
+<polyline points="2172.00,1352.00 2172.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2172" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">20</text>
+<polyline points="2432.00,1352.00 2432.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2432" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">30</text>
+<polyline points="2692.00,1352.00 2692.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2692" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">40</text>
+<polyline points="2952.00,1352.00 2952.00,1368.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2952" y="1404" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">50</text>
+<text x="200" y="580" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="start" style="">Z / m</text>
+<polygon points="300.00,1412.00 300.00,1100.00 469.00,1100.00 469.00,1282.00 690.00,1282.00 690.00,1100.00 2133.00,1100.00 2133.00,814.00 3004.00,814.00 3004.00,1412.00" fill="#DDD8CD" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="300.00,1100.00 469.00,1100.00 469.00,1282.00 690.00,1282.00 690.00,1100.00 2133.00,1100.00 2133.00,814.00 3004.00,814.00" fill="none" stroke="#243540" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="820" y="788" width="364" height="312" rx="0" fill="#DDD8CD" stroke="#243540" stroke-width="2" opacity="0.55" stroke-dasharray=""/>
+<rect x="896.5" y="733" width="211.0" height="43" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1002.0" y="765" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">Snow depot / Q8</text>
+<polyline points="579.50,1282.00 820.00,1282.00 1080.00,1100.00" fill="none" stroke="#7C8286" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 8" opacity="1"/>
+<polyline points="1548.00,1100.00 1548.00,528.00" fill="none" stroke="#243540" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="1652.00,1100.00 1652.00,528.00" fill="none" stroke="#243540" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="1558.3999999999999" y="1092.72" width="83.20000000000027" height="12" rx="0" fill="#DDD8CD" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<rect x="1496" y="814.0" width="208" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<polyline points="1600.00,1079.20 1600.00,829.60" fill="none" stroke="#D95B10" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1" marker-end="url(#orange)"/>
+<rect x="1704" y="814.0" width="208" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray="8 7"/>
+<rect x="1912" y="814.0" width="117.0" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<polyline points="2018.60,814.00 2156.40,814.00" fill="none" stroke="#243540" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 6" opacity="1"/>
+<polyline points="2083.60,814.00 2156.40,814.00" fill="none" stroke="#7C8286" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 8" opacity="1"/>
+<rect x="2302" y="812.96" width="585.0" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<polyline points="2166.79,814.00 2166.79,730.80" fill="none" stroke="#243540" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="2853.21,814.00 2853.21,730.80" fill="none" stroke="#243540" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="2853.21,730.80 2852.74,694.88 2851.33,659.05 2848.98,623.42 2845.71,588.09 2841.52,553.14" fill="none" stroke="#243540" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="2178.48,553.14 2174.29,588.09 2171.02,623.42 2168.67,659.05 2167.26,694.88 2166.79,730.80" fill="none" stroke="#243540" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="2370.5" y="557.4" width="331.0" height="79" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="2536" y="590.4" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">Dome / Q17</text>
+<text x="2536" y="625.4" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">crown omitted above +10.6</text>
+<rect x="524.0" y="869.4" width="124.0" height="79" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="586" y="902.4" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">Rail / Q7</text>
+<text x="586" y="937.4" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">-3.5</text>
+<rect x="1279.5" y="977.6" width="121.0" height="45" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1340" y="1011.6" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#243540" font-weight="400" text-anchor="middle" style="">HUB / 0</text>
+<rect x="1505.5" y="391" width="137.0" height="79" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1574" y="424" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">Freight lift</text>
+<text x="1574" y="459" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">0 &lt;&gt; +5.5</text>
+<rect x="1824.0" y="548" width="228.0" height="77" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1938" y="580" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">PadNorth / +5.5</text>
+<text x="1938" y="614" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">Gate 1405 (target)</text>
+<rect x="2067.5" y="990.0" width="209.0" height="77" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="2172" y="1022.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">Approach bridge</text>
+<text x="2172" y="1056.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">projected / +5.5</text>
+<polygon points="2159.00,805.00 2168.00,814.00 2159.00,823.00 2150.00,814.00" fill="#FAF8F1" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="2118.0" y="689.4000000000001" width="212.0" height="75" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="2224" y="720.4000000000001" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">CP14 (0,19.5,5.5)</text>
+<text x="2224" y="753.4000000000001" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">off-cut projection</text>
+<circle cx="1291.6470588235295" cy="926.2439180196966" r="9" fill="#FAF8F1" stroke="#243540" stroke-width="3"/>
+<polyline points="1291.65,926.24 1340.00,694.40" fill="none" stroke="#243540" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="1068.5" y="595.8" width="231.0" height="75" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1184" y="626.8" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">Zip45 crosses X=6</text>
+<text x="1184" y="659.8" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">Y=-13.86 / Z=+3.34</text>
+<text x="75" y="1440" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#586C76" font-weight="400" text-anchor="start" style="">Planned, not built: projected rail spur / WoodDoor 704 / L0-to-L1 ramp at X=8 (cut itself is X=6).</text>
+<text x="75" y="1485" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#C63232" font-weight="400" text-anchor="start" style="">!03 CP6 remains (-18,-18,0), away from the L0 rail. CP14 is now on the approach landing at (0,19.5,5.5).</text>
+<text x="75" y="1580" font-family="Arial, Microsoft YaHei, sans-serif" font-size="37" fill="#243540" font-weight="700" text-anchor="start" style="">B–B / WEST–EAST (OFFSET SECTION)</text>
+<text x="75" y="1626" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#586C76" font-weight="400" text-anchor="start" style="">Cut Y=10 m for west bench / ToHub; step at X=-18.9 to Y=-1.2 m for HUB, U walk, lift ring, BridgeEast and lab.</text>
+<polyline points="260.00,2532.00 3762.00,2532.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="2542.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">-3.5</text>
+<polyline points="260.00,2350.00 3762.00,2350.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="2360" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">+0.0</text>
+<polyline points="260.00,2064.00 3762.00,2064.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="2074.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">+5.5</text>
+<polyline points="260.00,1882.00 3762.00,1882.00" fill="none" stroke="#B5C0C1" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 9" opacity="1"/>
+<text x="240" y="1892" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="400" text-anchor="end" style="">+9.0</text>
+<polyline points="456.00,2602.00 456.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="456" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-60</text>
+<polyline points="716.00,2602.00 716.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="716" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-50</text>
+<polyline points="976.00,2602.00 976.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="976" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-40</text>
+<polyline points="1236.00,2602.00 1236.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1236" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-30</text>
+<polyline points="1496.00,2602.00 1496.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1496" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-20</text>
+<polyline points="1756.00,2602.00 1756.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="1756" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">-10</text>
+<polyline points="2016.00,2602.00 2016.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2016" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">0</text>
+<polyline points="2276.00,2602.00 2276.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2276" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">10</text>
+<polyline points="2536.00,2602.00 2536.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2536" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">20</text>
+<polyline points="2796.00,2602.00 2796.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="2796" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">30</text>
+<polyline points="3056.00,2602.00 3056.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="3056" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">40</text>
+<polyline points="3316.00,2602.00 3316.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="3316" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">50</text>
+<polyline points="3576.00,2602.00 3576.00,2618.00" fill="none" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<text x="3576" y="2654" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">60</text>
+<text x="200" y="1830" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="start" style="">Z / m</text>
+<polygon points="300.00,2610.00 300.00,2064.00 1431.00,2064.00 1431.00,2350.00 2627.00,2350.00 2627.00,2064.00 3732.00,2064.00 3732.00,2610.00" fill="#DDD8CD" stroke="#243540" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="300.00,2064.00 1431.00,2064.00 1431.00,2350.00 2627.00,2350.00 2627.00,2064.00 3732.00,2064.00" fill="none" stroke="#243540" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="1197.0" y="1892.4" width="205.39999999999986" height="171.5999999999999" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="0.55" stroke-dasharray=""/>
+<rect x="1195.1999999999998" y="1837.4" width="209.0" height="43" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1299.6999999999998" y="1869.4" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">Equipment room</text>
+<rect x="1480.3999999999999" y="2116.0" width="41.600000000000136" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<polyline points="1524.60,2584.00 1524.60,1830.00" fill="none" stroke="#C63232" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 8" opacity="1"/>
+<rect x="1503.0" y="1903" width="142.0" height="75" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1574" y="1934" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">OFFSET</text>
+<text x="1574" y="1967" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">Y 10 &gt; -1.2</text>
+<rect x="2068" y="2064.0" width="208" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<rect x="2276" y="2064.0" width="379.5999999999999" height="12" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<rect x="2692" y="1793.6" width="468" height="270.4000000000001" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="0.55" stroke-dasharray=""/>
+<rect x="2737.0" y="1738.6" width="378.0" height="43" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="2926.0" y="1770.6" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">Glacier lab / Q13 Shade fire run</text>
+<rect x="3394" y="1887.2" width="208" height="176.79999999999995" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="0.55" stroke-dasharray=""/>
+<rect x="3324.0" y="1832.2" width="348.0" height="43" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="3498.0" y="1864.2" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">Heat-test / Q12 Slow-mo lure</text>
+<rect x="1620.8" y="1986" width="62.40000000000009" height="12" rx="0" fill="#419C9C" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<rect x="1619.76" y="1817.0" width="64.48000000000002" height="12" rx="0" fill="#419C9C" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<polyline points="1652.00,2350.00 1652.00,1995.36" fill="none" stroke="#087F83" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<rect x="1828.8" y="1954.8" width="62.40000000000009" height="12" rx="0" fill="#419C9C" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<rect x="1827.76" y="1785.8000000000002" width="64.48000000000002" height="12" rx="0" fill="#419C9C" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<polyline points="1860.00,2350.00 1860.00,1964.16" fill="none" stroke="#087F83" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="" opacity="1"/>
+<polyline points="1652.00,1986.00 1860.00,1954.80" fill="none" stroke="#087F83" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8" opacity="1"/>
+<rect x="1598.0" y="1673.1999999999998" width="368.0" height="77" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1782" y="1705.1999999999998" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">U corner decks +7.0 / +7.6</text>
+<text x="1782" y="1739.1999999999998" font-family="Arial, Microsoft YaHei, sans-serif" font-size="25" fill="#243540" font-weight="400" text-anchor="middle" style="">middle flight at Y=0 (projected)</text>
+<rect x="803.5" y="2218.2" width="241.0" height="79" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="924" y="2251.2" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">West slope plateau</text>
+<text x="924" y="2286.2" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">L2 +5.5</text>
+<rect x="1316.0" y="2412.6" width="308.0" height="75" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1470" y="2443.6" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">ToHub cut +4.5</text>
+<text x="1470" y="2476.6" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">full run: Y 1→12 / Z 0→5.5</text>
+<rect x="2056.5" y="1849" width="179.0" height="44" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="2146" y="1882" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#243540" font-weight="400" text-anchor="middle" style="">Lift ring / +5.5</text>
+<rect x="2301.0" y="2215" width="366.0" height="75" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="2484" y="2246" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">BridgeEast / +5.5</text>
+<text x="2484" y="2279" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">Door 1306 via observation porch</text>
+<rect x="3121.0" y="2241.0" width="234.0" height="42" rx="5" fill="#FAF8F1" stroke="none" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="3238" y="2272.0" font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#243540" font-weight="400" text-anchor="middle" style="">Zip28 cut / see note</text>
+<circle cx="3290" cy="2001.8021385609268" r="9" fill="#FAF8F1" stroke="#243540" stroke-width="3"/>
+<text x="75" y="2740" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#586C76" font-weight="400" text-anchor="start" style="">Door 1306 is at the lab west opening Y[-12,-6]; walk south through the observation porch, never through the window.</text>
+<text x="75" y="2785" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#586C76" font-weight="400" text-anchor="start" style="">Sequence: safe Slow-mo intro &gt; Q12 Heat-test gallery (M) &gt; north service walk &gt; CP12 (39.5,6,5.5) &gt; Q13 Glacier lab (S).</text>
+<text x="75" y="2830" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#586C76" font-weight="400" text-anchor="start" style="">Zip28 crosses B–B at X=49 / Z=+6.70; cable heights are attachment geometry, not ride/landing heights.</text>
+<rect x="80" y="2890" width="40" height="30" rx="0" fill="#536B7D" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="135" y="2914" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#243540" font-weight="400" text-anchor="start" style="">L0 -3.5</text>
+<rect x="510" y="2890" width="40" height="30" rx="0" fill="#DDD8CD" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="565" y="2914" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#243540" font-weight="400" text-anchor="start" style="">L1 0</text>
+<rect x="940" y="2890" width="40" height="30" rx="0" fill="#91ABBE" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="995" y="2914" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#243540" font-weight="400" text-anchor="start" style="">L2 +5.5</text>
+<rect x="1370" y="2890" width="40" height="30" rx="0" fill="#419C9C" stroke="#243540" stroke-width="2" opacity="1" stroke-dasharray=""/>
+<text x="1425" y="2914" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#243540" font-weight="400" text-anchor="start" style="">U walk to +9.0</text>
+<polyline points="1970.00,2905.00 2080.00,2905.00" fill="none" stroke="#243540" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 8" opacity="1"/>
+<text x="2100" y="2914" font-family="Arial, Microsoft YaHei, sans-serif" font-size="27" fill="#243540" font-weight="400" text-anchor="start" style="">Projection / off-cut</text>
+<text x="2930" y="2914" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" fill="#243540" font-weight="700" text-anchor="start" style="">VE 2× / H 26 px:m / V 52 px:m</text>
+<text x="80" y="2980" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" fill="#586C76" font-weight="400" text-anchor="start" style="">Datum levels are nominal; roof massing is schematic. No UE inspection / PIE / collision or puzzle acceptance performed.</text>
+</svg>
