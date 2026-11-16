@@ -4,7 +4,7 @@ Responsible for packaging, video, dev log and itch submission. Requirements are 
 
 ## Status
 
-2026-11-16: Curated English Dev Log prepared in `DEV_LOG/` (14 documents plus index, 31 image files, department hierarchy retained). Dedicated Public repository https://github.com/RX300/CastOfOne-DevLog created; push verification pending. Unselected material is in `MegaJamProject/Saved/DevLogTranslationWork/`.
+2026-11-16: Curated English Dev Log prepared in `DEV_LOG/` (14 documents plus index, 31 image files, department hierarchy retained). Dedicated Public repository https://github.com/RX300/CastOfOne-DevLog created and pushed; Public visibility and all 46 uploaded files verified. Unselected material is in `MegaJamProject/Saved/DevLogTranslationWork/`.
 
 2026-11-16: Windows x64 Butler 15.32.0 downloaded to `Tools/butler/`; `version` runs successfully. Not logged in or uploaded. Game packaging and submission still pending.
 
@@ -18,7 +18,7 @@ Responsible for packaging, video, dev log and itch submission. Requirements are 
 - [ ] Final package, ZIP named `TeamName_GameName.zip`; use Butler above browser-upload limit (package ready: `Build/RX300_CastOfOne.zip`, **rename for the team**; 4 GB exceeds browser upload limit, use Butler)
 - [ ] Upload to own itch.io account
 - [x] 30–60-second gameplay video, gameplay within first 5 seconds (file ready, see Trailer; uploaded link pending)
-- [x] Curated English Dev Log prepared (`DEV_LOG/`; GitHub push verification in progress)
+- [x] Curated English Dev Log prepared (`DEV_LOG/`; GitHub publication verified)
 - [ ] Team name, member names + Epic account emails, game title
 - [ ] Tools + third-party assets (`CREDITS.md`)
 - [ ] Pre-jam preparation declaration (`PRE_JAM_DECLARATION.md`)

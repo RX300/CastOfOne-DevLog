@@ -7,7 +7,7 @@ Every work session of the jam, newest first, as the agents and the producer wrot
 - Following the producer's final scope, prepared `DEV_LOG/` with 14 selected English documents plus the index, retaining the `Studio/` department hierarchy. Includes handover/engineering logs, mechanics, DLSS, art/UI, audio, release records and credits; the three map documents are explicitly labeled selected translated excerpts.
 - Includes 26 PNG/JPG images and 5 SVGs: maps, architecture/workflow diagrams and representative screenshots. Unselected translations and full-mirror copies were moved to `MegaJamProject/Saved/DevLogTranslationWork/`. Original tool `.log` files remain untranslated as requested.
 - Verification: no Chinese prose remains; 26 raster images decode and 5 SVGs parse; links to omitted project files are clearly labeled text references, and bundled relative links pass. This validates documentation/images, not game behavior.
-- The producer requested GitHub publication with Public visibility. Created the dedicated public repository https://github.com/RX300/CastOfOne-DevLog ; upload and remote verification are in progress.
+- The producer requested GitHub publication with Public visibility. Created the dedicated public repository https://github.com/RX300/CastOfOne-DevLog ; pushed to `main`; GitHub reports `PUBLIC`, all 46 files are present, and the remote commit matches the local commit.
 
 ## 2026-11-16 09:45 · Release · Claude: English Dev Log folder
 
